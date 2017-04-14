@@ -1,6 +1,6 @@
 {
   "name": "atomic-react-tinymce",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "React TinyMCE component",
   "main": "lib/main.js",
   "scripts": {
